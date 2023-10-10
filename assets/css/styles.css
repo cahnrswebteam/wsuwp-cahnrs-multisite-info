@@ -1,9 +1,9 @@
-.toplevel_page_wsuwp-multisite-info {
+.toplevel_page_wsuwp-multisite-info:not(.wp-first-item) {
     background: white;
 }
 .wsuwp-multisite-information {
+    display: inline-table;
     margin-top: 1rem !important;
-    display: inline-block;
 }
 
 .wsuwp-multisite-information th {
