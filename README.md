@@ -1,4 +1,4 @@
-# WSU Accessibility Report
+# WSU Multisite Information
 This plugin creates a page on the network admin dashboard that shows all websites in the network, along with some other information. 
 ## Requirements
 - None
